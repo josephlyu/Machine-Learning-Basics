@@ -5,6 +5,3 @@
 #### Interactive structure is available at: https://basics.shangjielyu.com/
 
 ![structure](data/structure.png)
-
-
-
